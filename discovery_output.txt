@@ -1,0 +1,23 @@
+
+> job-aggregator@0.1.0 discover
+> ts-node --project tsconfig.script.json lib/discovery.ts
+
+Fetching https://www.hellowork.com/fr-fr/emploi/recherche.html?k=Analyste+d%27exploitation&l=Ile-de-France...
+Found 30 potential job links.
+First job link structure:
+HREF: /fr-fr/emplois/73152753.html
+Text: Analyste d'Exploitation H/F
+        Connectt
+Parent classes: undefined
+Grandparent classes: tw-w-11/12
+Potential card container tag: LI
+Potential card container class: undefined
+HTML snippet: 
+
+
+                <div data-id-storage-target="item" data-id-storage-item-id="73152753">
+                    
+
+<div class="tw-group tw-h-full tw-overflow-hidden tw-bg-white tw-rounded-sm tw-border tw-border-grey-100 hover:tw-border-grey-500 focus-within:tw-outline focus-within:tw-transition-none tw-transition-border-color tw-duration-100">
+    <div class="tw-h-full tw-relative tw-flex tw-flex-col sm:tw-flex-row sm:small-group:tw-flex-col ">
+        <div class="tw-absolute tw-right-6 sm:small-gr
